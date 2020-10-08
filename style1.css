@@ -1,0 +1,26 @@
+.background-div{
+    width: 640px;
+    height: 640px;
+    background-color: red;
+    position: relative;
+    margin: auto;
+}
+.yatay-div{
+    width: 400px;
+    height: 120px;
+    background-color: white;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 260px;
+}
+
+.dikey-div{
+    width: 120px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 120px;
+
+
+}
